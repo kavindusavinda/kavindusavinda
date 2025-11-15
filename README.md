@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div><img src="Kavindu (1).png"></div><br>
+<div><video src="video.mp4" width="300" autoplay loop muted></video></div><br>
 
 <div align="center">
             <ul align="center">
