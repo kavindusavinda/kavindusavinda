@@ -5,7 +5,7 @@
             <ul align="center">
                 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
                     width="100px" />
-                <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Sachini+Ruvindya;"
+                <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Kavindu+Savinda;"
                     alt="Headline" />
              <h3 align="center">I'm a Software Engineering Undergraduate in Sri Lanka. I am interested in Web Development and UI/UX Engineering.</h3><br>
             </ul>
